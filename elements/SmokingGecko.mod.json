@@ -1,0 +1,22 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.35,
+    "cookingTime": 50,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:RawTokayGecko"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:CookedTokayGeckoMeat"
+    },
+    "name": "smoking_gecko",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "tokaygeckohurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.tokaygeckohurt",
+    "sounds": [
+      {
+        "name": "morecraft_with_extra_craft:tokaygeckohurt",
+        "stream": false
+      }
+    ]
+  },
+  "tokaygeckodeath": {
+    "category": "neutral",
+    "subtitle": "subtitles.tokaygeckodeath",
+    "sounds": [
+      {
+        "name": "morecraft_with_extra_craft:tokaygeckodeath",
+        "stream": false
+      }
+    ]
+  },
+  "tokaygeckoidle": {
+    "category": "neutral",
+    "subtitle": "subtitles.tokaygeckoidle",
+    "sounds": [
+      {
+        "name": "morecraft_with_extra_craft:tokaygeckoidle",
+        "stream": false
+      }
+    ]
+  }
+}

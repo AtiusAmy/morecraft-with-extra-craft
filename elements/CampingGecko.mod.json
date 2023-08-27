@@ -1,0 +1,22 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 600,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:RawTokayGecko"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:CookedTokayGeckoMeat"
+    },
+    "name": "camping_gecko",
+    "namespace": "mod"
+  }
+}
