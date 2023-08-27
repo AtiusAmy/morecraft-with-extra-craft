@@ -1,0 +1,24 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-08-27 21:05:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mangrove_swamp": "2023-08-27 21:05:03 +0700",
+      "minecraft:sparse_jungle": "2023-08-27 21:05:13 +0700",
+      "minecraft:savanna": "2023-08-27 21:05:25 +0700",
+      "minecraft:plains": "2023-08-27 21:05:20 +0700"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-08-27 21:05:18 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,271 @@
+{
+  "mod_elements": [
+    {
+      "name": "RawTokayGecko",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_tokay_gecko",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/morecraftwithextracraft/item/RawTokayGeckoItem.java",
+          "src/main/resources/assets/morecraft_with_extra_craft/models/item/raw_tokay_gecko.json"
+        ]
+      }
+    },
+    {
+      "name": "TokayGeckodrop",
+      "type": "loottable",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tokay_geckodrop",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/morecraft_with_extra_craft/loot_tables/entities/tokay_gecko.json"
+        ]
+      }
+    },
+    {
+      "name": "Rawsilverfish",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawsilverfish",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/morecraft_with_extra_craft/models/item/rawsilverfish.json",
+          "src/main/java/net/mcreator/morecraftwithextracraft/item/RawsilverfishItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Silverfishdrop",
+      "type": "loottable",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silverfishdrop",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/loot_tables/entities/silverfish.json"
+        ]
+      }
+    },
+    {
+      "name": "TokayGeckotail",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tokay_geckotail",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/morecraftwithextracraft/item/TokayGeckotailItem.java",
+          "src/main/resources/assets/morecraft_with_extra_craft/models/item/tokay_geckotail.json"
+        ]
+      }
+    },
+    {
+      "name": "TokayGeckoleather",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tokay_geckoleather",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/morecraft_with_extra_craft/models/item/tokay_geckoleather.json",
+          "src/main/java/net/mcreator/morecraftwithextracraft/item/TokayGeckoleatherItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CookedTokayGeckoMeat",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_tokay_gecko_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/morecraft_with_extra_craft/models/item/cooked_tokay_gecko_meat.json",
+          "src/main/java/net/mcreator/morecraftwithextracraft/item/CookedTokayGeckoMeatItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CookingGecko",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooking_gecko",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/morecraft_with_extra_craft/recipes/cooking_gecko.json"
+        ]
+      }
+    },
+    {
+      "name": "SmokingGecko",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoking_gecko",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/morecraft_with_extra_craft/recipes/smoking_gecko.json"
+        ]
+      }
+    },
+    {
+      "name": "CampingGecko",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camping_gecko",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/morecraft_with_extra_craft/recipes/camping_gecko.json"
+        ]
+      }
+    },
+    {
+      "name": "TokayGeckoWhip",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tokay_gecko_whip",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/morecraftwithextracraft/item/TokayGeckoWhipItem.java",
+          "src/main/resources/assets/morecraft_with_extra_craft/models/item/tokay_gecko_whip.json"
+        ]
+      }
+    },
+    {
+      "name": "Whipcraft",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whipcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/morecraft_with_extra_craft/recipes/whipcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "TokayGecko",
+      "type": "livingentity",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tokay_gecko",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/morecraft_with_extra_craft/models/item/tokay_gecko_spawn_egg.json",
+          "src/main/java/net/mcreator/morecraftwithextracraft/entity/TokayGeckoEntity.java",
+          "src/main/java/net/mcreator/morecraftwithextracraft/client/renderer/TokayGeckoRenderer.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "tokaygeckohurt",
+      "files": [
+        "tokaygeckohurt"
+      ],
+      "category": "neutral",
+      "subtitle": "Tokay Gecko Hurts"
+    },
+    {
+      "name": "tokaygeckodeath",
+      "files": [
+        "tokaygeckodeath"
+      ],
+      "category": "neutral",
+      "subtitle": "Tokay Gecko Dies"
+    },
+    {
+      "name": "tokaygeckoidle",
+      "files": [
+        "tokaygeckoidle"
+      ],
+      "category": "neutral",
+      "subtitle": "Tokay Gecko noises"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.morecraft.raw_tokay_gecko": "Raw Tokay Gecko",
+      "entity.morecraft_with_extra_craft.tokay_gecko": "Tokay Gecko",
+      "item.morecraft_with_extra_craft.tokay_gecko_spawn_egg": "Tokay Gecko Spawn Egg",
+      "item.morecraft.tokay_geckoleather": "Tokay Gecko Leather",
+      "item.morecraft.cooked_tokay_gecko_meat": "Cooked Tokay Gecko Meat",
+      "item.morecraft_with_extra_craft.tokay_geckoleather": "Tokay Gecko Leather",
+      "item.morecraft_with_extra_craft.cooked_tokay_gecko_meat": "Cooked Tokay Gecko Meat",
+      "subtitles.tokaygeckohurt": "Tokay Gecko Hurts",
+      "item.morecraft_with_extra_craft.tokay_gecko_whip": "Tokay Gecko Whip",
+      "item.morecraft.tokay_geckotail": "Gecko Tail",
+      "item.morecraft.tokay_gecko_whip": "Tokay Gecko Whip",
+      "subtitles.tokaygeckoidle": "Tokay Gecko noises",
+      "item.morecraft_with_extra_craft.tokay_geckotail": "Gecko Tail",
+      "item.morecraft_with_extra_craft.raw_tokay_gecko": "Raw Tokay Gecko",
+      "subtitles.tokaygeckodeath": "Tokay Gecko Dies",
+      "item.morecraft_with_extra_craft.rawsilverfish": "Raw Silverfish",
+      "item.morecraft.rawsilverfish": "Raw Silverfish"
+    },
+    "th_th": {
+      "item.morecraft.raw_tokay_gecko": "Raw Tokay Gecko",
+      "entity.morecraft_with_extra_craft.tokay_gecko": "Tokay Gecko",
+      "item.morecraft_with_extra_craft.tokay_gecko_spawn_egg": "Tokay Gecko Spawn Egg",
+      "item.morecraft.tokay_geckoleather": "Tokay Gecko Leather",
+      "item.morecraft.cooked_tokay_gecko_meat": "Cooked Tokay Gecko Meat",
+      "item.morecraft_with_extra_craft.tokay_geckoleather": "หนังตุ๊กแก",
+      "item.morecraft_with_extra_craft.cooked_tokay_gecko_meat": "Cooked Tokay Gecko Meat",
+      "subtitles.tokaygeckohurt": "ตุ๊กแกเจ็บ",
+      "item.morecraft_with_extra_craft.tokay_gecko_whip": "Tokay Gecko Whip",
+      "item.morecraft.tokay_geckotail": "Gecko Tail",
+      "item.morecraft.tokay_gecko_whip": "Tokay Gecko Whip",
+      "subtitles.tokaygeckoidle": "เสียงตุ๊กแก",
+      "item.morecraft_with_extra_craft.tokay_geckotail": "หางตุ๊กแก",
+      "item.morecraft_with_extra_craft.raw_tokay_gecko": "เนื้อตุ๊กแกดิบ",
+      "subtitles.tokaygeckodeath": "ตุ๊กแกเจ็บตาย",
+      "item.morecraft_with_extra_craft.rawsilverfish": "แมลงสามง่ามดิบ",
+      "item.morecraft.rawsilverfish": "Raw Silverfish"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "morecraft_with_extra_craft",
+    "modName": "Morecraft with extra craft",
+    "version": "1.0.0",
+    "author": "atiusamy, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Mozilla Public License 2.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.morecraftwithextracraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}
